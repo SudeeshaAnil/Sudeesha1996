@@ -1,0 +1,4 @@
+6)Program to find the Largest two numbers in a given array
+	Logic:
+		Read an array and sort the array in descending order.
+		Display the first two elements in the array.

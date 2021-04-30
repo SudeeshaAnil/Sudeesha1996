@@ -1,0 +1,7 @@
+2)Program to check if a given bit position is set to one or not.
+	Logic:
+		input: n=5,k=1
+		First convert 5(decimal) to its binary form
+		Binary form of 5=101
+		Here k=1
+		so,We have to find is the first position of 5(i.e,101) is 1 or not 

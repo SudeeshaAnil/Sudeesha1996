@@ -1,0 +1,6 @@
+3)Java program to count the number of bits set to one.
+	Logic:
+		if n=10
+		convert 10 to binary
+		Binary form of 10 is 1010
+		so there is number of 1's count is 2.

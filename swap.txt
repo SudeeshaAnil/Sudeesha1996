@@ -1,0 +1,18 @@
+5)Java program to swap the contents of two numbers using Bitwise XOR operation
+	Logic:
+		if a=9,b=10;
+		9->1001(binary form)
+		10->1010
+		XOR(^) -a    b	   a^b
+			0    0	    0
+			0    1	    1
+			1    0	    1
+			1    1      0
+	
+		
+		here we need to swap a and b
+		a=a^b=9^10=1001^1010=0011(now value of a=0011=3)
+		b=a^b=3^10=0011^1010=1001(now value of b=1001=9)
+		a=a^b=3^9=0011^1001=1010(now value of a=1010=10)	
+		After swaping,
+			a=10, b=9     

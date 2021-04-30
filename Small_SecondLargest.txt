@@ -1,0 +1,5 @@
+Program to find the second largest and smallest element in a given array
+	Logic:
+		Read an array.
+		Sort the array.
+		Display the (n-2)th element and 0th element of the array.
